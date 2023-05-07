@@ -20,14 +20,6 @@ pagination:
   sort_field: 'date'
   sort_reverse: true
 
-# Category Paginating
-autopages:
-  enabled: true
-  categories:
-    title: 'Posts in category :cat'
-    permalink: '/category/:cat'
-    silent: false
-
 # Exclusions
 exclude: [ 'README.md', 'COPYING' ]
 
