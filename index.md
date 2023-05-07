@@ -15,7 +15,7 @@ mitigation against the Erebus attack, an eclipse attack where the attacker spoof
 
 ## Tools
 
-* [Kartograf]: An auditable and repeatable IP to ASN mapping tool. Kartograf pulls in data from various public of internet routing data
+* [Kartograf] is an auditable and repeatable IP to ASN mapping tool. Kartograf pulls in data from various public of internet routing data
   and combines them in a purely functional way to minimize the possibility of accidental BGP leaks. (Experimental)
 * [Tools to explore BGP] by Julia Evans which also describes ASs, BGP and  BGP routes.
 
