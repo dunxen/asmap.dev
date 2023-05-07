@@ -11,7 +11,7 @@ mitigation against the Erebus attack, an eclipse attack where the attacker spoof
 
 ## Background reading
 
-  * Gleb Naumenko's [BitMEX blog post]. Some of the tooling mentioned in the post is outdated/unmaintained. See [tools](##Tools) for more.
+  * Gleb Naumenko's [BitMEX blog post]. Some of the tooling mentioned in the post is outdated/unmaintained. See _Tools_ below for more.
 
 ## Tools
 
